@@ -1,2 +1,5 @@
-file7 added
+file7 a<<<<<< HEAD
 local
+=======
+remote
+>>>>>>> aeb24e6c445341e66805a62a082b32c64e778f82
